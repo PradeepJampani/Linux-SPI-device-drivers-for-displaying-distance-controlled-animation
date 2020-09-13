@@ -364,5 +364,5 @@ static void __exit ledMatrixDriverUninstall(void){
 module_init(ledMatrixDriverInitiation);
 module_exit(ledMatrixDriverUninstall);
 MODULE_LICENSE("GPL v2");
-MODULE_AUTHOR("Prasanth Sukhapalli, Pradeep Chowdary Jampani");
+MODULE_AUTHOR(" Pradeep Chowdary Jampani");
 MODULE_DESCRIPTION("This module is to control the SPI operations for a 8x8 LED matrix connected to the MAX7219");
